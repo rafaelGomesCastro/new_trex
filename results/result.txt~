@@ -1,0 +1,56 @@
+128 256
+cg dt mg bifu 
+0.965
+
+128 256
+cg dt mg bifu 
+0.9500000029802322
+
+128 256
+cg dt mg bifu 
+0.9624999970197677
+
+128 256
+cg dt mg bifu cyl2d 
+0.8760000038146972
+
+128 256
+cg dt mg bifu cyl2d 
+0.8439999997615815
+
+128 256
+cg dt mg bifu cyl2d 
+0.8099999911785126
+
+Tr: 128 Ts: 256 Ep: 100
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.8660000021457672
+
+Tr: 128 Ts: 256 Ep: 100
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.8520000007152557
+
+Tr: 128 Ts: 256 Ep: 200
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.9260000009536743
+
+Tr: 128 Ts: 256 Ep: 200
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.86599999833107
+
+Tr: 128 Ts: 256 Ep: 200
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.8699999985694885
+
+Tr: 128 Ts: 256 Ep: 100
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.9019999990463257
+
+Tr: 128 Ts: 256 Ep: 100
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.8400000023841858
+
+Tr: 128 Ts: 256 Ep: 100
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.9079999980926514
+

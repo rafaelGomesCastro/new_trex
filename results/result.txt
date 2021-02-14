@@ -1,0 +1,172 @@
+Tr: 128 Ts: 256 Ep: 100
+Apps: cg dt mg bifu 
+Acc: 0.965
+
+Tr: 128 Ts: 256 Ep: 100
+Apps: cg dt mg bifu 
+Acc: 0.9500000029802322
+
+Tr: 128 Ts: 256 Ep: 100
+Apps: cg dt mg bifu 
+Acc: 0.9624999970197677
+
+Tr: 128 Ts: 256 Ep: 100
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.8760000038146972
+
+Tr: 128 Ts: 256 Ep: 100
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.8439999997615815
+
+Tr: 128 Ts: 256 Ep: 100
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.8099999911785126
+
+Tr: 128 Ts: 256 Ep: 100
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.8660000021457672
+
+Tr: 128 Ts: 256 Ep: 100
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.8520000007152557
+
+Tr: 128 Ts: 256 Ep: 200
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.9260000009536743
+
+Tr: 128 Ts: 256 Ep: 200
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.86599999833107
+
+Tr: 128 Ts: 256 Ep: 200
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.8699999985694885
+
+Tr: 128 Ts: 256 Ep: 100
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.9019999990463257
+
+Tr: 128 Ts: 256 Ep: 100
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.8400000023841858
+
+Tr: 128 Ts: 256 Ep: 100
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.9079999980926514
+
+Tr: 128 Ts: 256 Ep: 150
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.9219999990463257
+
+Tr: 128 Ts: 256 Ep: 150
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.9220000023841858
+
+Tr: 128 Ts: 256 Ep: 150
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.8119999969005585
+
+Tr: 128 Ts: 256 Ep: 150
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.934
+
+Tr: 128 Ts: 256 Ep: 150
+Apps: cg dt mg bifu cyl2d 
+Acc: 0.882000002861023
+
+Tr: 128 Ts: 256 Ep: 150
+Apps: cg dt mg bifu cyl2d multc 
+Acc: 0.8933333297570546
+
+Tr: 128 Ts: 256 Ep: 150
+Apps: cg dt mg bifu cyl2d multc 
+Acc: 0.8083333322902521
+
+Tr: 128 Ts: 256 Ep: 300
+Apps: cg dt mg bifu cyl2d multc 
+Acc: 0.8899999976158142
+
+Tr: 128 Ts: 256 Ep: 300
+Apps: cg dt mg bifu cyl2d multc 
+Acc: 0.9399999932448069
+
+Tr: 128 Ts: 256 Ep: 300
+Apps: cg dt mg bifu cyl2d multc 
+Acc: 0.9049999964237213
+
+Tr: 128 Ts: 256 Ep: 300
+Apps: cg dt mg bifu cyl2d multc cylinder3d 
+Acc: 0.7842857117950917
+
+Tr: 128 Ts: 256 Ep: 300
+Apps: cg dt mg bifu cyl2d multc cylinder3d 
+Acc: 0.7814285691082478
+
+Tr: 128 Ts: 256 Ep: 300
+Apps: cg dt mg bifu cyl2d multc cylinder3d 
+Acc: 0.8771428537368774
+
+Tr: 64 Ts: 256 Ep: 300
+Apps: bt cg dt lu mg sp 
+Acc: 0.5660000038146973
+
+Tr: 64 Ts: 256 Ep: 300
+Apps: bt cg dt lu mg sp 
+Acc: 0.5619999977946282
+
+Tr: 64 Ts: 256 Ep: 300
+Apps: bt cg dt lu mg sp 
+Acc: 0.5619999990463257
+
+Tr: 64 Ts: 256 Ep: 300
+Apps: bt cg dt 
+Acc: 0.6533333345254262
+
+Tr: 64 Ts: 256 Ep: 300
+Apps: bt cg dt 
+Acc: 0.8133333277702331
+
+Tr: 64 Ts: 256 Ep: 300
+Apps: bt cg dt 
+Acc: 0.980000003973643
+
+Tr: 64 Ts: 256 Ep: 300
+Apps: bt cg dt 
+Acc: 0.6533333345254262
+
+Tr: 64 Ts: 256 Ep: 300
+Apps: bt cg dt 
+Acc: 0.9866666674613953
+
+Tr: 64 Ts: 256 Ep: 300
+Apps: bt cg dt 
+Acc: 0.9766666722297669
+
+Tr: 64 Ts: 256 Ep: 300
+Apps: bt cg 
+Acc: 0.5000000005960464
+
+Tr: 64 Ts: 256 Ep: 300
+Apps: bt cg 
+Acc: 1.0
+
+Tr: 64 Ts: 256 Ep: 300
+Apps: bt cg 
+Acc: 1.0
+
+Tr: 64 Ts: 256 Ep: 300
+Apps: bt cg dt mg 
+Acc: 0.7049999988079071
+
+Tr: 64 Ts: 256 Ep: 300
+Apps: bt cg dt mg 
+Acc: 0.7100000005960464
+
+Tr: 64 Ts: 256 Ep: 300
+Apps: bt cg dt mg 
+Acc: 0.7049999988079071
+
+Tr: 128 Ts: 256 Ep: 300
+Apps: cg dt mg bifu 
+Acc: 0.9774999982118606
+
