@@ -170,3 +170,35 @@ Tr: 128 Ts: 256 Ep: 300
 Apps: cg dt mg bifu 
 Acc: 0.9774999982118606
 
+Tr: 128 Ts: 256 Ep: 300
+Apps: cg dt mg bifu 
+Acc: 0.967499994635582
+
+Tr: 128 Ts: 512 Ep: 300
+Apps: bifu cyl2d 
+Acc: 0.5050000037997961
+
+Tr: 128 Ts: 512 Ep: 300
+Apps: bifu cyl2d 
+Acc: 0.5100000040233135
+
+Tr: 128 Ts: 512 Ep: 300
+Apps: bifu cyl2d 
+Acc: 0.5050000037997961
+
+Tr: 128 Ts: 512 Ep: 300
+Apps: bifu cyl2d 
+Acc: 0.5000000035762787
+
+Tr: 128 Ts: 512 Ep: 300
+Apps: bifu cyl2d 
+Acc: 0.5050000037997961
+
+Tr: 128 Ts: 512 Ep: 300
+Apps: bifu cyl2d 
+Acc: 0.5050000037997961
+
+Tr: 128 Ts: 512 Ep: 300
+Apps: bifu cyl2d 
+Acc: 0.5050000037997961
+
